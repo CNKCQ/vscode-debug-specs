@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 // #include <unistd.h>
-
-void sort(int nList, int *list);
+#include "bubble_sort.h"
 
 int main(int nArgs, char **argv)
 {
