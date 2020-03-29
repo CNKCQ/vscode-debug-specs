@@ -1,5 +1,13 @@
 <!-- vim: ts=2 sw=2 expandtab
 -->
+google chromium project example 
+
+https://chromium.googlesource.com/chromium/src/+/master/docs/vscode.md
+
+and
+
+https://chromium.googlesource.com/chromium/src/+/master/tools/vscode
+
 # Visual Studio Code Debug specs list
 
 |Language or Platform name|Debugger Extension(ver)|Debugger|MacOS|Windows|Linux|
